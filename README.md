@@ -20,13 +20,12 @@ Welcome to my GitHub! I’m a developer, student, and technology enthusiast with
 | [Zorin-OS-Auto-Add-Desktop](https://github.com/NeonKern3l/Zorin-OS-Auto-Add-Desktop) | Automate desktop setup for Zorin OS with custom scripts. |
 | [Parrot-Os-Alternate-For-Debian-Server](https://github.com/NeonKern3l/Parrot-Os-Alternate-For-Debian-Server) | Parrot OS-like environment for Debian servers, optimized for security tasks. |
 | [CodeSpace](https://github.com/NeonKern3l/CodeSpace) | My personal workspace for coding experiments and learning. |
-| [signed-mouse-driver](https://github.com/Berk000x/signed-mouse-driver) | Contributed to a secure, signed mouse driver project. |
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Bash, Python, C, JavaScript
+- **Languages:** Bash, Python, C, C++, Java, HTML, CSS
 - **Tools:** Docker, Git, Wireshark, Metasploit
 - **Platforms:** Linux (Debian, Zorin, Parrot), Windows (for driver experiments)
 
@@ -35,9 +34,6 @@ Welcome to my GitHub! I’m a developer, student, and technology enthusiast with
 ## 📫 Connect with Me
 
 - **GitHub:** [NeonKern3l](https://github.com/NeonKern3l)
-- **Email:** [Add your email here]
-- **LinkedIn:** [Add your LinkedIn here]
-- **Twitter/X:** [Add your Twitter/X here]
 
 ---
 
