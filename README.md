@@ -25,7 +25,7 @@ Welcome to my GitHub! I’m a developer, student, and technology enthusiast with
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Bash, Python, C, C++, Java, HTML, CSS
+- **Languages:** Bash, Python, C, C++, Java, HTML, CSS, A little bit of ASM
 - **Tools:** Docker, Git, Wireshark, Metasploit
 - **Platforms:** Linux (Debian, Zorin, Parrot), Windows (for driver experiments)
 
